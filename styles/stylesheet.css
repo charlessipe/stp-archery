@@ -12,16 +12,18 @@ body {          overflow: auto;
 }
 
 header img {    margin-left: 20px;
+                margin-top: 8px;
                 float: left;
-                width: 9%;
-                height: 9%;
+                width: 8%;
+                height: 8%;
 }
 
 header h1 {     font-family: impact, sans-serif;
                 color: rgb(148, 200, 64);
                 margin: auto;
                 text-align: center;
-                font-size: 3.2em;
+                font-size: 3em;
+                height: 80px;
                 padding: .5em 7em;
                 margin-top: 20px;
                 position: relative;
