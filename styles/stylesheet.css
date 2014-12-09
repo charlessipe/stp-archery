@@ -1,0 +1,21 @@
+* {             margin: 0;
+                padding: 0;
+}
+
+body {          overflow: auto;
+                overflow-x: hidden;
+                border: 0px;
+                margin: 0px;
+                padding: 0px;
+                background-color: rgb(82, 62, 51);
+                
+}
+
+header h1 {     font-family: impact, sans-serif;
+                color: rgb(148, 200, 64);
+                margin: auto;
+                text-align: center;
+                font-size: 2.7em;
+                padding: .5em 7em;
+                margin-top: 20px;
+}
