@@ -27,4 +27,5 @@ header h1 {     font-family: impact, sans-serif;
                 padding: .5em 7em;
                 margin-top: 20px;
                 position: relative;
+                text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
