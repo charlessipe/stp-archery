@@ -80,4 +80,21 @@ video {         margin: 0 auto;
                 border: 8px solid rgb(148, 100, 10);
                 display: block;
 }
-    
+
+.menu a {       font-family: helvetica, arial, san-serif;
+                font-size: 1em;
+                color: rgb(148, 200, 10);
+                text-align: center;
+                text-shadow: 1px 1px 1px rgb(0, 0, 0);
+                text-decoration: none;
+}
+
+footer {        margin: 0 auto;
+                font-family: helvetica, arial, sans-serif;
+                font-size: 1.1em;
+                color: rgb(148, 200, 10);
+                line-height: 40px;
+                text-align: center;
+                text-shadow: 1px 1px 1px rgb(0, 0, 0);
+                position: sticky;
+}
