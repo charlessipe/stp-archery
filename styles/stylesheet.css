@@ -81,6 +81,15 @@ nav ul li a {   font-weight: normal;
                 display: block;
 }
 
+aside {         margin: 0 auto;
+                margin-top: 90px;
+                margin-left: 40px;
+                margin-right: 40px;
+                padding: 1px 1px 20px 1px;
+                border-radius: 10px;
+                border: 4px solid rgb(148, 100, 10);
+                background-color: rgb(255, 255, 255);}
+
 .menu a {       font-family: helvetica, arial, san-serif;
                 color: rgb(148, 200, 10);
                 text-align: center;
