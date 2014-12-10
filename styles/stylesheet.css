@@ -61,6 +61,8 @@ nav ul {        width: 100%;
 }
 
 nav ul li {     display: inline;
+                float: left;
+                width: 20%;
 }
 
 nav ul li a {   font-weight: normal;
@@ -68,6 +70,5 @@ nav ul li a {   font-weight: normal;
                 color: rgb(148, 100, 10);
                 text-shadow: 1px 1px 1px rgb(0, 0, 0);
                 padding: 10px;
-                width: 20%;
                 text-align: center;
 }
