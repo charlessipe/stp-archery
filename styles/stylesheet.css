@@ -75,7 +75,7 @@ nav ul li a {   font-weight: normal;
                 text-align: center;
 }
 
-video {         margin: 0 auto;
+.video {        margin: 0 auto;
                 margin-top: 90px;
                 border: 8px solid rgb(148, 100, 10);
                 display: block;
