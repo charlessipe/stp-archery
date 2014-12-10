@@ -82,7 +82,6 @@ video {         margin: 0 auto;
 }
 
 .menu a {       font-family: helvetica, arial, san-serif;
-                font-size: 1em;
                 color: rgb(148, 200, 10);
                 text-align: center;
                 text-shadow: 1px 1px 1px rgb(0, 0, 0);
@@ -90,11 +89,13 @@ video {         margin: 0 auto;
 }
 
 footer {        margin: 0 auto;
-                font-family: helvetica, arial, sans-serif;
-                font-size: 1.1em;
-                color: rgb(148, 200, 10);
+                width: 100%;
                 line-height: 40px;
+                height: 100%;
+                margin-bottom: 5px;
+                font-family: helvetica, arial, sans-serif;
+                font-size: 1.2em;
+                color: rgb(148, 200, 10);
                 text-align: center;
                 text-shadow: 1px 1px 1px rgb(0, 0, 0);
-                position: sticky;
 }
