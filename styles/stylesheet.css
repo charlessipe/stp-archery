@@ -33,12 +33,13 @@ header h1 {     font-family: impact, sans-serif;
                 text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
 
-nav {           margin: auto;
+nav {           margin: 0;
                 margin-top: 20px;
                 width: 100%;
-                line-height: 30px;
-                font-family: impact, sans-serif;
-                font-size: 1.4em;
+                height: 40px;
+                line-height: 40px;
+                font-family: "arial-bold", "helvetica-bold" sans-serif;
+                font-size: 1.5em;
                 float: left;
                 list-style: none;
                 background-color: rgb(157,213,58); /* Old browsers */
@@ -57,7 +58,7 @@ nav ul {        width: 100%;
                 display: -webkit-inline-block;
                 list-style-type: none;
                 margin: 0px;
-                padding: 8px;
+                padding: 0px;
 }
 
 nav ul li {     display: inline;
@@ -67,8 +68,9 @@ nav ul li {     display: inline;
 
 nav ul li a {   font-weight: normal;
                 text-decoration: none;
+                display: inline-block;
                 color: rgb(148, 100, 10);
                 text-shadow: 1px 1px 1px rgb(0, 0, 0);
-                padding: 10px;
+                padding: 0px;
                 text-align: center;
 }
