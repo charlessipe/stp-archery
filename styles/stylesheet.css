@@ -32,3 +32,42 @@ header h1 {     font-family: impact, sans-serif;
                 position: relative;
                 text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
+
+nav {           margin: auto;
+                margin-top: 20px;
+                width: 100%;
+                line-height: 30px;
+                font-family: impact, sans-serif;
+                font-size: 1.4em;
+                float: left;
+                list-style: none;
+                background-color: rgb(157,213,58); /* Old browsers */
+                background: -moz-linear-gradient(top,  rgb(157,213,58) 0%, rgb(161,213,79) 50%,                               rgb(128,194,23) 51%, rgb(124,188,10) 100%); /* FF3.6+ */
+                background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgb(157,213,58)),                   color-stop(50%,rgb(161,213,79)), color-stop(51%,rgb(128,194,23)), color-                                      stop(100%,rgb(124,188,10))); /* Chrome,Safari4+ */
+                background: -webkit-linear-gradient(top,  rgb(157,213,58) 0%,rgb(161,213,79)                                    50%,rgb(128,194,23) 51%,rgb(124,188,10) 100%); /* Chrome10+,Safari5.1+ */
+                background: -o-linear-gradient(top,  rgb(157,213,58) 0%,rgb(161,213,79) 50%,rgb(128,194,23)                     51%,rgb(124,188,10) 100%); /* Opera 11.10+ */
+                background: -ms-linear-gradient(top,  rgb(157,213,58) 0%,rgb(161,213,79) 50%,rgb(128,194,23)                 51%,rgb(124,188,10) 100%); /* IE10+ */
+                background: linear-gradient(to bottom,  rgb(157,213,58) 0%,rgb(161,213,79)                                  50%,rgb(128,194,23) 51%,rgb(124,188,10) 100%); /* W3C */
+                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9dd53a',                                endColorstr='#7cbc0a',GradientType=0 ); /* IE6-9 */
+}
+
+nav ul {        width: 100%;
+                display: inline-block;
+                display: -moz-inline-block;
+                display: -webkit-inline-block;
+                list-style-type: none;
+                margin: 0px;
+                padding: 8px;
+}
+
+nav ul li {     display: inline;
+}
+
+nav ul li a {   font-weight: normal;
+                text-decoration: none;
+                color: rgb(148, 100, 10);
+                text-shadow: 1px 1px 1px rgb(0, 0, 0);
+                padding: 10px;
+                width: 20%;
+                text-align: center;
+}
