@@ -128,6 +128,30 @@ article h2 {    margin-top: 20px;
                 text-shadow: 1px 1px 1px rgb(0, 0, 0);
 }
 
+article h3 {    margin-top: 10px;
+                margin-left: 10px;
+                font-family: helvetica, arial, sans-serif;
+                font-size: 1.4em;
+}
+
+.columns {      overflow: hidden;
+                margin: 0 auto;
+                width: 100%;
+                height: 100%;
+                background-color: rgb(255, 255, 255);
+}
+
+.basic {        font-family: arial, helvetica, sans-serif;
+                font-size: 1.2em;
+                text-align: justify;
+                min-height: 5px;
+                margin-left: 2px;
+                float: left;
+                width: 33.3%;
+                padding: 10px;
+                background-color: rgb(255, 255, 255);
+}
+
 .menu a {       font-family: helvetica, arial, san-serif;
                 color: rgb(148, 200, 10);
                 text-align: center;
