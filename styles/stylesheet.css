@@ -76,13 +76,13 @@ nav ul li a {   font-weight: normal;
 }
 
 .video {        margin: 0 auto;
-                margin-top: 90px;
+                margin-top:130px;
                 border: 8px solid rgb(148, 100, 10);
                 display: block;
 }
 
 aside {         margin: 0 auto;
-                margin-top: 90px;
+                margin-top: 70px;
                 margin-left: 40px;
                 margin-right: 40px;
                 padding: 1px 1px 20px 1px;
